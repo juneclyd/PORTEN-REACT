@@ -1,0 +1,22 @@
+.login{
+    padding-bottom: 100%;
+    background-color:#000;
+}
+.login h1 {
+    font-size: 35px;
+    color: white;
+    padding-top: 75px;
+    padding-left: 100px;
+}
+.line {
+    margin-left: 100px;
+    width: 220px;
+}
+.loginForm{
+    display: flex;
+    flex-direction: column;
+}
+.loginForm input {
+    height: 30px;
+    width: 230px;
+}
